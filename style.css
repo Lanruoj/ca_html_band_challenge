@@ -1,0 +1,72 @@
+body {
+    font-family: Monaco, monospace;
+}
+
+header {
+    text-align: center;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 12px;
+}
+
+.nav {
+    list-style: none;
+    border-style: solid;
+    border-width: 0px 0px 2px 7px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 5px;
+}
+
+.nav > li {
+    display: inline;
+}
+
+.nav-a {
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(67, 0, 155)
+}
+
+.img-home {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+.img-band {
+    width: 400px;
+}
+
+.img-albums {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+.list-band {
+    margin: 10px;
+    list-style: none;
+}
+
+.band {
+    text-align: center;
+}
+
+.list-albums {
+    margin: 10px;
+    list-style: none;
+}
+
+.albums {
+    text-align: center;
+}
